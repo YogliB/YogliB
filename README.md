@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ..
 - 🤔 I’m looking for help with Webpack optimizations
 - 💬 Ask me about anything 🙂
-- 📫 How to reach me: https://twitter.com/yogev_bb
+- 📫 How to reach me: [🐦](https://twitter.com/yogev_bb)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
