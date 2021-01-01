@@ -9,5 +9,4 @@
 - 💬 Ask me about anything 🙂
 - 📫 How to reach me: [🐦](https://twitter.com/yogev_bb)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: I only started programming at 27 💻
