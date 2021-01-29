@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hey, I'm Yogev
 
-#### I'm Yogev, a web developer 🕷️🕸️
+#### Web Developer 🕸️
 
 - 🔭 I’m currently working on building a TODO app 🎯
 - 🌱 I’m currently learning how to build apps with Svelte
@@ -10,3 +10,5 @@
 - 📫 How to reach me:  [yogiboaron@gmail.com](mailto:yogiboaron@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I only started programming at 27 💻
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogliB)](https://github.com/anuraghazra/github-readme-stats)
