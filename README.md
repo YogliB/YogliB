@@ -24,4 +24,4 @@
 [![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)](https://typescriptlang.org)
 [![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)](https://sass-lang.com/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogliB)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogliB&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
