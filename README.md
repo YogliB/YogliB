@@ -1,6 +1,6 @@
-### 👋 Hey, I'm Yogev
+# 👋 Hey, I'm Yogev
 
-#### Web Developer 🕸️
+## Web Developer 🕸️
 
 - 🔭 Currently working on [svelte-packagr](https://github.com/YogliB/svelte-packagr).
 - 🎧 Podcast addict
