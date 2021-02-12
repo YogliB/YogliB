@@ -2,7 +2,7 @@
 
 ## Web Developer 🕸️
 
-- 🔭 Currently working on [svelte-packagr](https://github.com/YogliB/svelte-packagr).
+- 🔭 Currently working on [svelte-packagr](https://github.com/YogliB/svelte-packagr)
 - 🎧 Podcast addict
 - 😄 Pronouns: He/Him
 - 📫 Reach me at:  [yogiboaron@gmail.com](mailto:yogiboaron@gmail.com)
