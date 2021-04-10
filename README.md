@@ -2,7 +2,8 @@
 
 ## Web Developer 🕸️
 
-- 🔭 Currently working on [compare-and-patch](https://github.com/YogliB/compare-and-patch)
+- 🔭 Currently working on [svelte-packagr](https://github.com/YogliB/svelte-packagr)
+- 🎮 Currently playing [Piposh](https://store.steampowered.com/app/1092950/Piposh/).
 - 🎧 Podcast addict
 - 😄 Pronouns: He/Him
 - 📫 Reach me at:  [yogiboaron@gmail.com](mailto:yogiboaron@gmail.com)
