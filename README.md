@@ -2,7 +2,7 @@
 
 ## Web Developer 🕸️
 
-- 🔭 Currently working on [svelte-packagr](https://github.com/YogliB/svelte-packagr)
+- 🤔 Currently thinking of what's next
 - 🎮 Currently playing [Piposh](https://store.steampowered.com/app/1092950/Piposh/)
 - 🎧 Podcast addict
 - 😄 Pronouns: He/Him
