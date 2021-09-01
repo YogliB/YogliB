@@ -3,10 +3,9 @@
 ## Web Developer 🕸️
 
 - 🤔 Currently thinking of what's next
-- 🎮 Currently playing [Piposh](https://store.steampowered.com/app/1092950/Piposh/)
 - 🎧 Podcast addict
 - 😄 Pronouns: He/Him
-- 📫 Reach me at:  [yogiboaron@gmail.com](mailto:yogiboaron@gmail.com)
+- 📫 Reach me at:  [me@yogev.dev](mailto:yogiboaron@gmail.com)
 
 
 ### My Work Stack
