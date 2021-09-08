@@ -5,7 +5,7 @@
 - 🤔 Currently thinking of what's next
 - 🎧 Podcast addict
 - 😄 Pronouns: He/Him
-- 📫 Reach me at:  [me@yogev.dev](mailto:yogiboaron@gmail.com)
+- 📫 Reach me at:  [me@yogev.dev](mailto:me@yogev.dev)
 
 
 ### My Work Stack
