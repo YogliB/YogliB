@@ -10,11 +10,9 @@
 
 ### My Work Stack
 
-[![](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)](https://angular.io)
-[![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)](https://sass-lang.com/)
-[![](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)](https://tailwindcss.com)
-[![](https://img.shields.io/badge/-.NET-5C2D91)](https://docs.microsoft.com/en-us/dotnet/framework/get-started/overview)
-[![](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=fff)](https://www.microsoft.com/en-us/sql-server)
+[![](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=fff)](https://reactjs.org)
+[![](https://img.shields.io/badge/-.Java-red?logo=java&logoColor=fff)](https://www.java.com/en/)
+[![](https://img.shields.io/badge/-MySQL-00758f?logo=mysql&logoColor=fff)](https://www.mysql.com/)
 
 
 ### My Home Stack
