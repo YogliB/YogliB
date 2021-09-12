@@ -2,7 +2,8 @@
 
 ## Web Developer 🕸️
 
-- 🤔 Currently thinking of what's next
+- 🧘‍♂️ Working on a [meditation app](https://github.com/YogliB/meditation)
+- 🧙 Reading [Harry Potter and the Methods of Rationality](http://www.hpmor.com)
 - 🎧 Podcast addict
 - 😄 Pronouns: He/Him
 - 📫 Reach me at:  [me@yogev.dev](mailto:me@yogev.dev)
@@ -23,3 +24,4 @@
 [![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)](https://sass-lang.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogliB&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+http://www.hpmor.com/
