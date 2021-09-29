@@ -24,4 +24,3 @@
 [![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)](https://sass-lang.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogliB&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-http://www.hpmor.com/
