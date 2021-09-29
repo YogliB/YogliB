@@ -2,7 +2,6 @@
 
 ## Web Developer 🕸️
 
-- 🧘‍♂️ Working on a [meditation app](https://github.com/YogliB/meditation)
 - 🧙 Reading [Harry Potter and the Methods of Rationality](http://www.hpmor.com)
 - 🎧 Podcast addict
 - 😄 Pronouns: He/Him
