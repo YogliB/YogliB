@@ -2,7 +2,9 @@
 
 ## Web Developer 🕸️
 
-- 🧙 Reading [Harry Potter and the Methods of Rationality](http://www.hpmor.com)
+- 🧙 Reading [Harry Potter and the Professor's Games](https://cdn.jsdelivr.net/gh/rjl20/hpmor@0c10d2e8b6bd68e88fd2fc6e6b233140917e7314/out/hpmor-2.pdf)
+- Playing [StarCraft II](https://starcraft2.com)
+- Learning [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
 - 🎧 Podcast addict
 - 😄 Pronouns: He/Him
 - 📫 Reach me at:  [me@yogev.dev](mailto:me@yogev.dev)
