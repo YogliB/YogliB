@@ -2,7 +2,7 @@
 
 ## Web Developer 🕸️
 
-- 🧙 Reading [Harry Potter and the Professor's Games](https://cdn.jsdelivr.net/gh/rjl20/hpmor@0c10d2e8b6bd68e88fd2fc6e6b233140917e7314/out/hpmor-2.pdf)
+- 🧙 Reading [Hermione Jean Granger and the Phoenix's Call](https://github.com/ianstormtaylor/hpmor)
 - 👾 Playing [StarCraft II](https://starcraft2.com)
 - 📈 Learning [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) & [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
 - 🎧 Podcast addict
