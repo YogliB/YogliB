@@ -2,6 +2,7 @@
 
 ## Web Developer 🕸️
 
+- 💡 Coding @ [Skai.io](https://skai.io)
 - 🧙 Reading [Hermione Jean Granger and the Phoenix's Call](https://github.com/ianstormtaylor/hpmor)
 - 👾 Playing [StarCraft II](https://starcraft2.com)
 - 💻 Learning [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries) at [FreeCodeCamp](https://www.freecodecamp.org/learn)
