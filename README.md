@@ -4,7 +4,7 @@
 
 - 🧙 Reading [Hermione Jean Granger and the Phoenix's Call](https://github.com/ianstormtaylor/hpmor)
 - 👾 Playing [StarCraft II](https://starcraft2.com)
-- 📈 Learning [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries) at [FreeCodeCamp](https://www.freecodecamp.org/learn)
+- 💻 Learning [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries) at [FreeCodeCamp](https://www.freecodecamp.org/learn)
 - 🎧 Podcast addict
 - 😄 Pronouns: He/Him
 - 📫 Reach me at:  [me@yogev.dev](mailto:me@yogev.dev)
