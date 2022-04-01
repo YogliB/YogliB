@@ -4,7 +4,7 @@
 
 - 🧙 Reading [Hermione Jean Granger and the Phoenix's Call](https://github.com/ianstormtaylor/hpmor)
 - 👾 Playing [StarCraft II](https://starcraft2.com)
-- 📈 Learning [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) & [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
+- 📈 Learning [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries) at [FreeCodeCamp](https://www.freecodecamp.org/learn)
 - 🎧 Podcast addict
 - 😄 Pronouns: He/Him
 - 📫 Reach me at:  [me@yogev.dev](mailto:me@yogev.dev)
@@ -15,7 +15,6 @@
 [![](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=fff)](https://reactjs.org)
 [![](https://img.shields.io/badge/-.Java-red?logo=java&logoColor=fff)](https://www.java.com/en/)
 [![](https://img.shields.io/badge/-MySQL-00758f?logo=mysql&logoColor=fff)](https://www.mysql.com/)
-
 
 ### My Home Stack
 
