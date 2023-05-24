@@ -3,12 +3,10 @@
 ## Full-Stack Developer :computer:
 
 - 💡 Coding @ [Skai.io](https://skai.io)
-- 🧙 Reading [Harry Potter and the Philosopher's Stone](https://github.com/ianstormtaylor/hpmor)
-- 👾 Casual gamer
-- 🎧 Podcast addict
 - 😄 Pronouns: He/Him
+- 🎧 Podcast addict
+- 👾 Casual gamer
 - 📫 Reach me at:  [me@yogev.dev](mailto:me@yogev.dev)
-
 
 ### My Work Stack
 
