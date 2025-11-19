@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer :computer:
 
-- 💡 Coding @ [Skai.io](https://skai.io)
+- 💡 Coding @ [CyberArk](https://cyberark.com)
 - 😄 Pronouns: He/Him
 - 🎧 Podcast addict
 - 👾 Casual gamer
