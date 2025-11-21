@@ -3,7 +3,6 @@
 ## Full-Stack Developer :computer:
 
 - 💡 Coding @ [CyberArk](https://cyberark.com)
-- 😄 Pronouns: He/Him
 - 🎧 Podcast addict
 - 👾 Casual gamer
 - 📫 Reach me at:  [me@yogev.dev](mailto:me@yogev.dev)
@@ -11,5 +10,5 @@
 ### My Stack
 
 [![](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white)](https://reactjs.org)
-[![](https://img.shields.io/badge/-.Java-red?logo=java&logoColor=white)](https://www.java.com/en/)
-[![](https://img.shields.io/badge/-MySQL-00758f?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
