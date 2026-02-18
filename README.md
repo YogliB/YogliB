@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer :computer:
 
-- 💡 Coding @ [CyberArk](https://cyberark.com)
+- 💡 Coding @[PANW](https://www.paloaltonetworks.com/)
 - 🎧 Podcast addict
 - 👾 Casual gamer
 - 📫 Reach me at:  [me@yogev.dev](mailto:me@yogev.dev)
