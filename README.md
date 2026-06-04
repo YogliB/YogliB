@@ -4,7 +4,7 @@
 
 - 💡 Coding @ [PANW](https://www.paloaltonetworks.com/)
 - 🎧 Podcast addict
-- 👾 Casual gamer
+- 👾 OSS maintainer @ [degit](https://github.com/Rich-Harris/degit)
 - 📫 Reach me at:  [me@yogev.dev](mailto:me@yogev.dev)
 
 ### My Stack
